@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+predizioni.csv
+weight/best_metric_model_101.pth
+weight/best_metric_model.pth
